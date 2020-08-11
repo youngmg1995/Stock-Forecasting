@@ -1,2 +1,2 @@
-# Trading-AI
-Developing ML Models for Forecasting Stock Prices and Optimizing Trading Strategy
+# Stock-Forecasting
+Developing Forecasting Models for Predicting Future Stock Prices
